@@ -6,27 +6,28 @@
 		+ Sẵn sàng
 	+ *Vô game*: chúng ta bắt đầu cuộc chơi của NCC và 100 người cùng chơi
 - Câu hỏi số: [1~x] x=10 chẳng hạn
-	+ *Đọc đáp án*: A, B, C
+	+ *Đọc đáp án*: A, B, C <--- chưa có
 	+ *Thời gian cho người cùng chơi*: Các bạn cùng chơi, xin mời trả lời câu hỏi
-		+ Như vậy là những người cùng chơi của chúng ta đã hoàn thành nhiệm vụ.
-	+ *Khi chọn 1 đáp án*: Liệu phương án X có chính xác từ chương trình?
-		+ Tiếng chốt đáp án
-		+ *Chọn đúng*: Xin chúc mừng
+		+ Như vậy là những người cùng chơi của chúng ta đã hoàn thành nhiệm vụ. <--- chưa có
+	+ *Khi chọn 1 đáp án*: Liệu phương án X có chính xác từ chương trình? <--- chưa có
+		+ Tiếng chốt đáp án <--- chưa có
+		+ *Chọn đúng*: Xin chúc mừng <--- chưa có
 			+ Tiếng chọn đúng
 			+ *Xem mức thưởng*: Mức thưởng của người chơi chính của chúng ta sẽ được nâng lên cao là
 				+ Tiếng hiện bảng tiền thưởng
 				+ Tiếng loại người cùng chơi
+					https://youtu.be/02QJUKeqHh4?t=2170 <--- tham khảo (36:10)
 				+ Tiếng tiền thưởng tăng
-				+ Tiếng MC bình luận: "mức thưởng chưa dừng lại đâu ạ"
-					+ xxx triệu là mức thưởng cho NCC
-		+ *Chọn sai*: Xin chia buồn
+				+ Tiếng MC bình luận: "mức thưởng chưa dừng lại đâu ạ" <--- chưa có
+					+ xxx triệu là mức thưởng cho NCC <--- chưa có
+		+ *Chọn sai*: Xin chia buồn <--- chưa có
 			+ Tiếng chọn sai
 	+ Nếu loại 50% 
-		+ Bây giờ áp dụng luật chia tiền thưởng cho người cùng chơi
-- Đấu tiếp hay dừng lại ?
-	+ Tiếp tục cuộc đấu của NCC
+		+ Bây giờ áp dụng luật chia tiền thưởng cho người cùng chơi <--- chưa có
+- Đấu tiếp hay dừng lại ? <--- chưa có
+	+ Tiếp tục cuộc đấu của NCC <--- chưa có
 	+ Dừng lại.
 - *Khi sử dụng quyền hỗ trợ*:
-	+ Hỏi người chơi
-	+ Khảo sát đáp án
-	+ Tin người cùng chơi
+	+ Hỏi người chơi <--- chưa có
+	+ Khảo sát đáp án <--- chưa có
+	+ Tin người cùng chơi <--- chưa có

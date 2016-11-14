@@ -1,0 +1,10 @@
+﻿1 - nhac nen - dau game.mp3 
+	tách phần chào của MC ra riêng... bỏ khúc nhạc nền đầu đi.
+4 - cau hoi dau tien.mp3 
+	cắt bớt khúc đầu và khúc im lặng ở giữa... chỉ còn ... xoẹt.. "câu hỏi đầu tiên". ngắn ngọn, cắt bớt những khúc trống
+5 - xin moi tra loi cau hoi.mp3 
+	khúc im lặng ở đầu cắt bớt
+7 - 1 cho dap an dung.mp3|7 - 2 cho dap an sai.mp3
+	tách riêng khúc nhạc nền trước khi có âm thanh đúng sai và âm thanh ĐÚNG hay SAI riêng ra (1s-2s thôi)
+8 - loai nguoi choi.mp3
+	tiếng này của mày là tiếng tăng tiền thưởng nha (không phải loại người chơi)
