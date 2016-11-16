@@ -7,7 +7,7 @@ public class User {
 	private boolean __gender=true;
 	private int __age=0;
 	private boolean __relationship=false; //tình trạng hôn nhân
-	private int totalPoints=0; //tổng số tiền thưởng mà user chơi được
+	private long totalPoints=0; //tổng số tiền thưởng mà user chơi được
 	private int consecutiveCorrectAnswer=0;//số tiền thưởng cao nhất mà user chơi trong 1 ván
 	
 	public long GetID()
